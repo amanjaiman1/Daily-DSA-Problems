@@ -19,7 +19,7 @@ The purpose of this repository is to provide a collection of DSA questions that 
 
 2. Clone the forked repository to your local machine:
 
->>git clone https://github.com/your-username/daily-dsa-questions.git
+>git clone https://github.com/your-username/daily-dsa-questions.git
 
 4. Start solving the daily DSA questions by going through the files in the repository. Each question is provided in a separate file, along with instructions and sample test cases.
 
@@ -29,9 +29,9 @@ The purpose of this repository is to provide a collection of DSA questions that 
 
 7. Commit and push your solution to your forked repository:
 
->>git add .
->>git commit -m "Add solution for Day X"
->>git push
+>git add . <br>
+>git commit -m "Add solution for Day <br>
+>git push
 
 8. Repeat steps 4-7 for each daily question.
 
@@ -45,7 +45,7 @@ Contributions to this repository are welcome! If you have a new DSA question or 
 
 2. Create a new branch for your contribution:
 
->>git checkout -b add-new-question
+>git checkout -b add-new-question
 
 3. Add the new question or make improvements to an existing question.
 
